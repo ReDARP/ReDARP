@@ -3,13 +3,9 @@ title: "ReDARP: Adaptive Area Reallocation and Online Replanning for Multi-Robot
 layout: default
 ---
 
-# **ReDARP: Adaptive Area Reallocation and Online Replanning for Multi-Robot Coverage**
-
-### *Real-time multi-robot coverage with dynamic region redistribution*
 
 <div align="center">
 
-![ReDARP demonstration]
 <center>
   <img src="assets/Screenshot from 2025-11-26 01-49-03.png" width="80%">
 </center>
