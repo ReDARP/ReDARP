@@ -11,7 +11,7 @@ layout: default
 
 ![ReDARP demonstration]
 <center>
-  <img src="assets/screenshot from 2025-11-26 01-49-03.png" width="80%">
+  <img src="assets/Screenshot from 2025-11-26 01-49-03.png" width="80%">
 </center>
 
 </div>
